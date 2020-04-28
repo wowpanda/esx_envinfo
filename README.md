@@ -21,3 +21,13 @@ git clone https://github.com/aleexnl/esx_envinfo.git [esx]/esx_envinfo
 ```
 start esx_envinfo
 ```
+
+## Configuration
+
+`config.lua`
+
+- Set wanted job to receive messages
+
+```
+Config.Job  =   'police'
+```
